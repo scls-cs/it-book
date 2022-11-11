@@ -227,3 +227,10 @@ Since the random variables in the Bayesian network are all Boolean, we only need
 [Annotated disjunctions documentation]
 
 [Annotated disjunctions documentation]: https://problog.readthedocs.io/en/latest/modeling_basic.html#annotated-disjunctions
+
+```{code-cell} python3
+def add(a,b):
+  print(a+b)
+
+add(1,2)
+```
